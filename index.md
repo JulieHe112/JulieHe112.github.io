@@ -13,11 +13,5 @@ I am Jiayun (Julie) He, currently an Honours student in Biomedical Science at th
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Nov. 2024]** I received my Bachelor's degree in Biomedical Science from the University of Melbourne.
 
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
