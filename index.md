@@ -8,8 +8,9 @@ I am Jiayun (Julie) He, currently an Honours student in Biomedical Science at th
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Molecular Biology:** 
+- **Synthetic Biology:**
+- **Genetic Engineering:**
 
 ## News
 
